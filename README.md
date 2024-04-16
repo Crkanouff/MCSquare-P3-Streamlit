@@ -6,14 +6,23 @@ Attempt to run demo with streamlit
  Here is what the file struction looks like in vs code: 
 
 #folder .streamlit
+
   #files  secrets.toml 
+  
 #Folder Pages/pages
+
   #Folder Logo
+  
     #File TravelProLogo.png
+    
   #Folder pages
+  
     #file 1_airbnb_demo.py
+
     #file 2_restaurant_demo.py
+    
     #file 3_site_seeing_demo.py
+    
   #File OpeningPage.py
 
   Just A Note, to get the pages to work from the opening page, you save them with the name Pages/pages_1_airbnb_demo.py   (They auto populate.)
